@@ -3,7 +3,7 @@ SimpleRDFConverter
 
 A simple, command-line, RDFLib based RDF serialization format converter
 
-**Author**: Albert Meroño-Peñuela
+**Author**: [Albert Meroño-Peñuela](https://github.com/albertmeronyo)
 
 ## Usage
 
@@ -22,5 +22,4 @@ Parameters:
 
 ## Dependencies
 
-Python 2.7.5
-RDFLib 4.1.0
+Python 2.7.5, RDFLib 4.1.0
